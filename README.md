@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youngSkywalker2024
-- 👀 I’m interested in ... Machine Learning and Data Science
+- 👀 I’m interested in ... Mathamatics and  Machine Learning
 - 🌱 I’m currently learning ... Computer Programming
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
